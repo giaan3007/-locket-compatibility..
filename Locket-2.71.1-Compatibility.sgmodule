@@ -1,0 +1,14 @@
+#!name=Locket 2.71.1 - Compatibility
+#!desc=Clean compatibility profile. Removes conflicting Locket response rewrites and RevenueCat interception so official AI, camera-roll, frame, and account requests are handled normally.
+
+[General]
+
+[Rule]
+
+[Host]
+
+[URL Rewrite]
+
+[Script]
+
+[MITM]
